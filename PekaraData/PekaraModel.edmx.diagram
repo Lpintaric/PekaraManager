@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="634f02e81aee41a3be1f5716a00a7ca6" Name="Diagram1" ZoomLevel="83">
+        <EntityTypeShape EntityType="PekaraDBModel.Kupac" Width="2" PointX="7.125" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="PekaraDBModel.NarudzbaProdaje" Width="2" PointX="5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PekaraDBModel.Proizvod" Width="2" PointX="9.875" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PekaraDBModel.Stavka_narudzbeProdaje" Width="1.75" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PekaraDBModel.Uloga" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PekaraDBModel.Zaposlenik" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="PekaraDBModel.VK_kupac" ManuallyRouted="false" />
+        <AssociationConnector Association="PekaraDBModel.FK_NarudzbaProdaje" ManuallyRouted="false" />
+        <AssociationConnector Association="PekaraDBModel.VK_zaposlenik" ManuallyRouted="false" />
+        <AssociationConnector Association="PekaraDBModel.FK_Proizvod" ManuallyRouted="false" />
+        <AssociationConnector Association="PekaraDBModel.FK_Uloga" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="PekaraDBModel.Racun" Width="1.5" PointX="5.125" PointY="8.75" />
+        <AssociationConnector Association="PekaraDBModel.FK_Racun_Zaposlenik" />
+        <EntityTypeShape EntityType="PekaraDBModel.sysdiagram" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="PekaraDBModel.StavkaRacuna" Width="1.5" PointX="7.375" PointY="6.875" />
+        <AssociationConnector Association="PekaraDBModel.FK_StavkeRacuna_Proizvod" />
+        <AssociationConnector Association="PekaraDBModel.FK_StavkeRacuna_Racun" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

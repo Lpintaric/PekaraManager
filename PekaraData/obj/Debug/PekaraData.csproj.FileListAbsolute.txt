@@ -1,0 +1,48 @@
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll.config
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.xml
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CopyComplete
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CopyComplete
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.pdb
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll.config
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.pdb
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.xml
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csprojAssemblyReference.cache
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CoreCompileInputs.cache
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CopyComplete
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.pdb
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll.config
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\PekaraData.pdb
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.xml
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\bin\Debug\EntityFramework.SqlServer.xml
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.AssemblyReference.cache
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CoreCompileInputs.cache
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.csproj.CopyComplete
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\PekaraData\obj\Debug\PekaraData.pdb

@@ -1,0 +1,44 @@
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe.config
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csprojAssemblyReference.cache
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.FormPocetna.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Narudzba.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Properties.Resources.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csproj.GenerateResource.cache
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.NarudzbaPregled.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Skladiste.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.SkladisteStanje.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.NarudzbaUnos.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.MRP.resources
+C:\Users\lukap\source\t19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.SkladisteUnos.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe.config
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.FormPocetna.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IzdavanjeRacuna.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IzdavanjeRacunaPotvrda.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.MRP.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.NarudzbaPregled.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Properties.Resources.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.SkladisteStanje.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.NarudzbaUnos.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.SkladisteUnos.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csproj.GenerateResource.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVeliko.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVelikoDodajKupca.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Statistike.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.StatistikePrometProdaje.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.StatistikeTroskoviNabave.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.EvidencijaRadnika.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija._0_Login.Login.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija._0_Login.Login2.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVelikoNarudzba.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.csproj.CopyComplete

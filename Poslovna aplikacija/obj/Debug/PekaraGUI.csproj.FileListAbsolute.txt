@@ -1,0 +1,342 @@
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVelikoNarudzba.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.FormPocetna.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IzdavanjeRacuna.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVeliko.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledUloga.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Properties.Resources.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.StatistikePrometProdaje.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.GenerateResource.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe.config
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll.config
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CopyComplete
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajNovuUlogu.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajZaposlenika.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledZaposlenika.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EnvDTE.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\stdole.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IspisRacuna.resources
+C:\Users\lukap\source\r19055\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PotvrdaRacuna.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EnvDTE.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\stdole.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IspisRacuna.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVelikoNarudzba.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.FormPocetna.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IzdavanjeRacuna.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PotvrdaRacuna.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVeliko.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajNovuUlogu.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledUloga.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajZaposlenika.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledZaposlenika.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Properties.Resources.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.StatistikePrometProdaje.resources
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.GenerateResource.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CopyComplete
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.pdb
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe.config
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.pdb
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EnvDTE.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\stdole.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.MSXML.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.pdb
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.pdb
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll.config
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EntityFramework.SqlServer.xml
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csprojAssemblyReference.cache
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IspisRacuna.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVelikoNarudzba.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.FormPocetna.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IzdavanjeRacuna.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PotvrdaRacuna.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVeliko.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajNovuUlogu.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledUloga.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajZaposlenika.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledZaposlenika.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Properties.Resources.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.StatistikePrometProdaje.resources
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.GenerateResource.cache
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CoreCompileInputs.cache
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CopyComplete
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.exe
+D:\Vazno\FOI\6_semestar\ProgramskoInženjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.pdb
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe.config
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.exe
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Poslovna aplikacija.pdb
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EnvDTE.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\stdole.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\Microsoft.MSXML.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraBussines.pdb
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.pdb
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\PekaraData.dll.config
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\EntityFramework.SqlServer.xml
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.AssemblyReference.cache
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IspisRacuna.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVelikoNarudzba.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.FormPocetna.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.IzdavanjeRacuna.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PotvrdaRacuna.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.ProdajaNaVeliko.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajNovuUlogu.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledUloga.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.DodajZaposlenika.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.PregledZaposlenika.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.Properties.Resources.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna_aplikacija.StatistikePrometProdaje.resources
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.GenerateResource.cache
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CoreCompileInputs.cache
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\PekaraGUI.csproj.CopyComplete
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.exe
+F:\FOI\6_semestar\ProgramskoInzenjerstvo\PI_projekt\r19055 - Copy (5)\Poslovna aplikacija\Poslovna aplikacija\obj\Debug\Poslovna aplikacija.pdb

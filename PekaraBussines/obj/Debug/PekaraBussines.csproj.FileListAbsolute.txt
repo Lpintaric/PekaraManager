@@ -1,0 +1,12 @@
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\PekaraBussines.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\PekaraBussines.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\EntityFramework.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\PekaraData.dll.config
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\bin\Debug\EntityFramework.xml
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\obj\Debug\PekaraBussines.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\obj\Debug\PekaraBussines.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\obj\Debug\PekaraBussines.csproj.CopyComplete
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\obj\Debug\PekaraBussines.dll
+C:\Users\lukap\source\r19055\Poslovna aplikacija\PekaraBussines\obj\Debug\PekaraBussines.pdb

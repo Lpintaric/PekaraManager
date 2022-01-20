@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="PekaraDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Kupac">
+          <Key>
+            <PropertyRef Name="ID_kupca" />
+          </Key>
+          <Property Name="ID_kupca" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Naziv" Type="varchar" MaxLength="100" />
+          <Property Name="Kontakt" Type="varchar" MaxLength="50" />
+          <Property Name="OIB" Type="char" MaxLength="11" />
+          <Property Name="Adresa" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="NarudzbaProdaje">
+          <Key>
+            <PropertyRef Name="ID_narudzbeProdaje" />
+          </Key>
+          <Property Name="ID_narudzbeProdaje" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ID_zaposlenika" Type="int" />
+          <Property Name="ID_kupca" Type="int" />
+          <Property Name="Datum" Type="datetime" />
+          <Property Name="Iznos" Type="float" />
+        </EntityType>
+        <EntityType Name="Proizvod">
+          <Key>
+            <PropertyRef Name="ID_proizvoda" />
+          </Key>
+          <Property Name="ID_proizvoda" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Naziv" Type="varchar" MaxLength="50" />
+          <Property Name="Opis" Type="varchar" MaxLength="100" />
+          <Property Name="Cijena" Type="float" />
+          <Property Name="Zaliha" Type="int" />
+        </EntityType>
+        <EntityType Name="Racun">
+          <Key>
+            <PropertyRef Name="ID_racuna" />
+          </Key>
+          <Property Name="ID_racuna" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ID_zaposlenika" Type="int" />
+          <Property Name="NacinPlacanja" Type="varchar" MaxLength="20" />
+          <Property Name="Popust" Type="float" />
+          <Property Name="PocetniIznos" Type="float" />
+          <Property Name="KonacniIznos" Type="float" />
+          <Property Name="Datum" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Stavka_narudzbeProdaje">
+          <Key>
+            <PropertyRef Name="ID_narudzbeProdaje" />
+            <PropertyRef Name="ID_proizvoda" />
+          </Key>
+          <Property Name="ID_narudzbeProdaje" Type="int" Nullable="false" />
+          <Property Name="ID_proizvoda" Type="int" Nullable="false" />
+          <Property Name="Kolicina" Type="float" />
+        </EntityType>
+        <EntityType Name="StavkaRacuna">
+          <Key>
+            <PropertyRef Name="ID_racuna" />
+            <PropertyRef Name="ID_proizvoda" />
+          </Key>
+          <Property Name="ID_racuna" Type="int" Nullable="false" />
+          <Property Name="ID_proizvoda" Type="int" Nullable="false" />
+          <Property Name="Kolicina" Type="int" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Uloga">
+          <Key>
+            <PropertyRef Name="ID_uloge" />
+          </Key>
+          <Property Name="ID_uloge" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Naziv" Type="varchar" MaxLength="50" />
+          <Property Name="Opis" Type="varchar" MaxLength="150" />
+        </EntityType>
+        <EntityType Name="Zaposlenik">
+          <Key>
+            <PropertyRef Name="ID_zaposlenika" />
+          </Key>
+          <Property Name="ID_zaposlenika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Ime" Type="varchar" MaxLength="50" />
+          <Property Name="Prezime" Type="varchar" MaxLength="50" />
+          <Property Name="Kontakt" Type="varchar" MaxLength="50" />
+          <Property Name="ID_uloge" Type="int" />
+          <Property Name="Adresa" Type="varchar" MaxLength="120" />
+        </EntityType>
+        <Association Name="FK_NarudzbaProdaje">
+          <End Role="NarudzbaProdaje" Type="Self.NarudzbaProdaje" Multiplicity="1" />
+          <End Role="Stavka_narudzbeProdaje" Type="Self.Stavka_narudzbeProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NarudzbaProdaje">
+              <PropertyRef Name="ID_narudzbeProdaje" />
+            </Principal>
+            <Dependent Role="Stavka_narudzbeProdaje">
+              <PropertyRef Name="ID_narudzbeProdaje" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Proizvod">
+          <End Role="Proizvod" Type="Self.Proizvod" Multiplicity="1" />
+          <End Role="Stavka_narudzbeProdaje" Type="Self.Stavka_narudzbeProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Proizvod">
+              <PropertyRef Name="ID_proizvoda" />
+            </Principal>
+            <Dependent Role="Stavka_narudzbeProdaje">
+              <PropertyRef Name="ID_proizvoda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Racun_Zaposlenik">
+          <End Role="Zaposlenik" Type="Self.Zaposlenik" Multiplicity="0..1" />
+          <End Role="Racun" Type="Self.Racun" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Zaposlenik">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Principal>
+            <Dependent Role="Racun">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StavkeRacuna_Proizvod">
+          <End Role="Proizvod" Type="Self.Proizvod" Multiplicity="1" />
+          <End Role="StavkaRacuna" Type="Self.StavkaRacuna" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Proizvod">
+              <PropertyRef Name="ID_proizvoda" />
+            </Principal>
+            <Dependent Role="StavkaRacuna">
+              <PropertyRef Name="ID_proizvoda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StavkeRacuna_Racun">
+          <End Role="Racun" Type="Self.Racun" Multiplicity="1" />
+          <End Role="StavkaRacuna" Type="Self.StavkaRacuna" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Racun">
+              <PropertyRef Name="ID_racuna" />
+            </Principal>
+            <Dependent Role="StavkaRacuna">
+              <PropertyRef Name="ID_racuna" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Uloga">
+          <End Role="Uloga" Type="Self.Uloga" Multiplicity="0..1" />
+          <End Role="Zaposlenik" Type="Self.Zaposlenik" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Uloga">
+              <PropertyRef Name="ID_uloge" />
+            </Principal>
+            <Dependent Role="Zaposlenik">
+              <PropertyRef Name="ID_uloge" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="VK_kupac">
+          <End Role="Kupac" Type="Self.Kupac" Multiplicity="0..1" />
+          <End Role="NarudzbaProdaje" Type="Self.NarudzbaProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kupac">
+              <PropertyRef Name="ID_kupca" />
+            </Principal>
+            <Dependent Role="NarudzbaProdaje">
+              <PropertyRef Name="ID_kupca" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="VK_zaposlenik">
+          <End Role="Zaposlenik" Type="Self.Zaposlenik" Multiplicity="0..1" />
+          <End Role="NarudzbaProdaje" Type="Self.NarudzbaProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Zaposlenik">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Principal>
+            <Dependent Role="NarudzbaProdaje">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PekaraDBModelStoreContainer">
+          <EntitySet Name="Kupac" EntityType="Self.Kupac" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="NarudzbaProdaje" EntityType="Self.NarudzbaProdaje" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Proizvod" EntityType="Self.Proizvod" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Racun" EntityType="Self.Racun" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Stavka_narudzbeProdaje" EntityType="Self.Stavka_narudzbeProdaje" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="StavkaRacuna" EntityType="Self.StavkaRacuna" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Uloga" EntityType="Self.Uloga" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Zaposlenik" EntityType="Self.Zaposlenik" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_NarudzbaProdaje" Association="Self.FK_NarudzbaProdaje">
+            <End Role="NarudzbaProdaje" EntitySet="NarudzbaProdaje" />
+            <End Role="Stavka_narudzbeProdaje" EntitySet="Stavka_narudzbeProdaje" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Proizvod" Association="Self.FK_Proizvod">
+            <End Role="Proizvod" EntitySet="Proizvod" />
+            <End Role="Stavka_narudzbeProdaje" EntitySet="Stavka_narudzbeProdaje" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Racun_Zaposlenik" Association="Self.FK_Racun_Zaposlenik">
+            <End Role="Zaposlenik" EntitySet="Zaposlenik" />
+            <End Role="Racun" EntitySet="Racun" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StavkeRacuna_Proizvod" Association="Self.FK_StavkeRacuna_Proizvod">
+            <End Role="Proizvod" EntitySet="Proizvod" />
+            <End Role="StavkaRacuna" EntitySet="StavkaRacuna" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StavkeRacuna_Racun" Association="Self.FK_StavkeRacuna_Racun">
+            <End Role="Racun" EntitySet="Racun" />
+            <End Role="StavkaRacuna" EntitySet="StavkaRacuna" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Uloga" Association="Self.FK_Uloga">
+            <End Role="Uloga" EntitySet="Uloga" />
+            <End Role="Zaposlenik" EntitySet="Zaposlenik" />
+          </AssociationSet>
+          <AssociationSet Name="VK_kupac" Association="Self.VK_kupac">
+            <End Role="Kupac" EntitySet="Kupac" />
+            <End Role="NarudzbaProdaje" EntitySet="NarudzbaProdaje" />
+          </AssociationSet>
+          <AssociationSet Name="VK_zaposlenik" Association="Self.VK_zaposlenik">
+            <End Role="Zaposlenik" EntitySet="Zaposlenik" />
+            <End Role="NarudzbaProdaje" EntitySet="NarudzbaProdaje" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PekaraDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Kupac">
+          <Key>
+            <PropertyRef Name="ID_kupca" />
+          </Key>
+          <Property Name="ID_kupca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Naziv" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Kontakt" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="OIB" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+          <Property Name="Adresa" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="NarudzbaProdajes" Relationship="Self.VK_kupac" FromRole="Kupac" ToRole="NarudzbaProdaje" />
+        </EntityType>
+        <EntityType Name="NarudzbaProdaje">
+          <Key>
+            <PropertyRef Name="ID_narudzbeProdaje" />
+          </Key>
+          <Property Name="ID_narudzbeProdaje" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ID_zaposlenika" Type="Int32" />
+          <Property Name="ID_kupca" Type="Int32" />
+          <Property Name="Datum" Type="DateTime" Precision="3" />
+          <Property Name="Iznos" Type="Double" />
+          <NavigationProperty Name="Kupac" Relationship="Self.VK_kupac" FromRole="NarudzbaProdaje" ToRole="Kupac" />
+          <NavigationProperty Name="Stavka_narudzbeProdaje" Relationship="Self.FK_NarudzbaProdaje" FromRole="NarudzbaProdaje" ToRole="Stavka_narudzbeProdaje" />
+          <NavigationProperty Name="Zaposlenik" Relationship="Self.VK_zaposlenik" FromRole="NarudzbaProdaje" ToRole="Zaposlenik" />
+        </EntityType>
+        <EntityType Name="Proizvod">
+          <Key>
+            <PropertyRef Name="ID_proizvoda" />
+          </Key>
+          <Property Name="ID_proizvoda" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Opis" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Cijena" Type="Double" />
+          <Property Name="Zaliha" Type="Int32" />
+          <NavigationProperty Name="Stavka_narudzbeProdaje" Relationship="Self.FK_Proizvod" FromRole="Proizvod" ToRole="Stavka_narudzbeProdaje" />
+          <NavigationProperty Name="StavkaRacunas" Relationship="PekaraDBModel.FK_StavkeRacuna_Proizvod" FromRole="Proizvod" ToRole="StavkaRacuna" />
+        </EntityType>
+        <EntityType Name="Stavka_narudzbeProdaje">
+          <Key>
+            <PropertyRef Name="ID_narudzbeProdaje" />
+            <PropertyRef Name="ID_proizvoda" />
+          </Key>
+          <Property Name="ID_narudzbeProdaje" Type="Int32" Nullable="false" />
+          <Property Name="ID_proizvoda" Type="Int32" Nullable="false" />
+          <Property Name="Kolicina" Type="Double" />
+          <NavigationProperty Name="NarudzbaProdaje" Relationship="Self.FK_NarudzbaProdaje" FromRole="Stavka_narudzbeProdaje" ToRole="NarudzbaProdaje" />
+          <NavigationProperty Name="Proizvod" Relationship="Self.FK_Proizvod" FromRole="Stavka_narudzbeProdaje" ToRole="Proizvod" />
+        </EntityType>
+        <EntityType Name="Uloga">
+          <Key>
+            <PropertyRef Name="ID_uloge" />
+          </Key>
+          <Property Name="ID_uloge" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Opis" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Zaposleniks" Relationship="Self.FK_Uloga" FromRole="Uloga" ToRole="Zaposlenik" />
+        </EntityType>
+        <EntityType Name="Zaposlenik">
+          <Key>
+            <PropertyRef Name="ID_zaposlenika" />
+          </Key>
+          <Property Name="ID_zaposlenika" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ime" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Prezime" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Kontakt" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ID_uloge" Type="Int32" />
+          <NavigationProperty Name="NarudzbaProdajes" Relationship="Self.VK_zaposlenik" FromRole="Zaposlenik" ToRole="NarudzbaProdaje" />
+          <NavigationProperty Name="Uloga1" Relationship="Self.FK_Uloga" FromRole="Zaposlenik" ToRole="Uloga" />
+          <Property Name="Adresa" Type="String" MaxLength="120" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Racuns" Relationship="PekaraDBModel.FK_Racun_Zaposlenik" FromRole="Zaposlenik" ToRole="Racun" />
+        </EntityType>
+        <Association Name="VK_kupac">
+          <End Role="Kupac" Type="Self.Kupac" Multiplicity="0..1" />
+          <End Role="NarudzbaProdaje" Type="Self.NarudzbaProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kupac">
+              <PropertyRef Name="ID_kupca" />
+            </Principal>
+            <Dependent Role="NarudzbaProdaje">
+              <PropertyRef Name="ID_kupca" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_NarudzbaProdaje">
+          <End Role="NarudzbaProdaje" Type="Self.NarudzbaProdaje" Multiplicity="1" />
+          <End Role="Stavka_narudzbeProdaje" Type="Self.Stavka_narudzbeProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NarudzbaProdaje">
+              <PropertyRef Name="ID_narudzbeProdaje" />
+            </Principal>
+            <Dependent Role="Stavka_narudzbeProdaje">
+              <PropertyRef Name="ID_narudzbeProdaje" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="VK_zaposlenik">
+          <End Role="Zaposlenik" Type="Self.Zaposlenik" Multiplicity="0..1" />
+          <End Role="NarudzbaProdaje" Type="Self.NarudzbaProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Zaposlenik">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Principal>
+            <Dependent Role="NarudzbaProdaje">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Proizvod">
+          <End Role="Proizvod" Type="Self.Proizvod" Multiplicity="1" />
+          <End Role="Stavka_narudzbeProdaje" Type="Self.Stavka_narudzbeProdaje" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Proizvod">
+              <PropertyRef Name="ID_proizvoda" />
+            </Principal>
+            <Dependent Role="Stavka_narudzbeProdaje">
+              <PropertyRef Name="ID_proizvoda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Uloga">
+          <End Role="Uloga" Type="PekaraDBModel.Uloga" Multiplicity="0..1" />
+          <End Role="Zaposlenik" Type="Self.Zaposlenik" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Uloga">
+              <PropertyRef Name="ID_uloge" />
+            </Principal>
+            <Dependent Role="Zaposlenik">
+              <PropertyRef Name="ID_uloge" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PekaraEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Kupacs" EntityType="Self.Kupac" />
+          <EntitySet Name="NarudzbaProdajes" EntityType="Self.NarudzbaProdaje" />
+          <EntitySet Name="Proizvods" EntityType="Self.Proizvod" />
+          <EntitySet Name="Stavka_narudzbeProdaje" EntityType="Self.Stavka_narudzbeProdaje" />
+          <EntitySet Name="Ulogas" EntityType="PekaraDBModel.Uloga" />
+          <EntitySet Name="Zaposleniks" EntityType="Self.Zaposlenik" />
+          <AssociationSet Name="VK_kupac" Association="Self.VK_kupac">
+            <End Role="Kupac" EntitySet="Kupacs" />
+            <End Role="NarudzbaProdaje" EntitySet="NarudzbaProdajes" />
+          </AssociationSet>
+          <AssociationSet Name="FK_NarudzbaProdaje" Association="Self.FK_NarudzbaProdaje">
+            <End Role="NarudzbaProdaje" EntitySet="NarudzbaProdajes" />
+            <End Role="Stavka_narudzbeProdaje" EntitySet="Stavka_narudzbeProdaje" />
+          </AssociationSet>
+          <AssociationSet Name="VK_zaposlenik" Association="Self.VK_zaposlenik">
+            <End Role="Zaposlenik" EntitySet="Zaposleniks" />
+            <End Role="NarudzbaProdaje" EntitySet="NarudzbaProdajes" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Proizvod" Association="Self.FK_Proizvod">
+            <End Role="Proizvod" EntitySet="Proizvods" />
+            <End Role="Stavka_narudzbeProdaje" EntitySet="Stavka_narudzbeProdaje" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Uloga" Association="Self.FK_Uloga">
+            <End Role="Uloga" EntitySet="Ulogas" />
+            <End Role="Zaposlenik" EntitySet="Zaposleniks" />
+          </AssociationSet>
+          <EntitySet Name="Racuns" EntityType="PekaraDBModel.Racun" />
+          <AssociationSet Name="FK_Racun_Zaposlenik" Association="PekaraDBModel.FK_Racun_Zaposlenik">
+            <End Role="Zaposlenik" EntitySet="Zaposleniks" />
+            <End Role="Racun" EntitySet="Racuns" />
+          </AssociationSet>
+          <EntitySet Name="sysdiagrams" EntityType="PekaraDBModel.sysdiagram" />
+          <EntitySet Name="StavkaRacunas" EntityType="PekaraDBModel.StavkaRacuna" />
+          <AssociationSet Name="FK_StavkeRacuna_Proizvod" Association="PekaraDBModel.FK_StavkeRacuna_Proizvod">
+            <End Role="Proizvod" EntitySet="Proizvods" />
+            <End Role="StavkaRacuna" EntitySet="StavkaRacunas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StavkeRacuna_Racun" Association="PekaraDBModel.FK_StavkeRacuna_Racun">
+            <End Role="Racun" EntitySet="Racuns" />
+            <End Role="StavkaRacuna" EntitySet="StavkaRacunas" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Racun">
+          <Key>
+            <PropertyRef Name="ID_racuna" />
+          </Key>
+          <Property Name="ID_racuna" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ID_zaposlenika" Type="Int32" />
+          <Property Name="NacinPlacanja" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Popust" Type="Double" />
+          <NavigationProperty Name="Zaposlenik" Relationship="PekaraDBModel.FK_Racun_Zaposlenik" FromRole="Racun" ToRole="Zaposlenik" />
+          <NavigationProperty Name="StavkaRacunas" Relationship="PekaraDBModel.FK_StavkeRacuna_Racun" FromRole="Racun" ToRole="StavkaRacuna" />
+          <Property Name="PocetniIznos" Type="Double" />
+          <Property Name="KonacniIznos" Type="Double" />
+          <Property Name="Datum" Type="DateTime" Precision="3" />
+        </EntityType>
+        <Association Name="FK_Racun_Zaposlenik">
+          <End Type="PekaraDBModel.Zaposlenik" Role="Zaposlenik" Multiplicity="0..1" />
+          <End Type="PekaraDBModel.Racun" Role="Racun" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Zaposlenik">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Principal>
+            <Dependent Role="Racun">
+              <PropertyRef Name="ID_zaposlenika" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="StavkaRacuna">
+          <Key>
+            <PropertyRef Name="ID_racuna" />
+            <PropertyRef Name="ID_proizvoda" />
+          </Key>
+          <Property Name="ID_racuna" Type="Int32" Nullable="false" />
+          <Property Name="ID_proizvoda" Type="Int32" Nullable="false" />
+          <Property Name="Kolicina" Type="Int32" />
+          <NavigationProperty Name="Proizvod" Relationship="PekaraDBModel.FK_StavkeRacuna_Proizvod" FromRole="StavkaRacuna" ToRole="Proizvod" />
+          <NavigationProperty Name="Racun" Relationship="PekaraDBModel.FK_StavkeRacuna_Racun" FromRole="StavkaRacuna" ToRole="Racun" />
+        </EntityType>
+        <Association Name="FK_StavkeRacuna_Proizvod">
+          <End Type="PekaraDBModel.Proizvod" Role="Proizvod" Multiplicity="1" />
+          <End Type="PekaraDBModel.StavkaRacuna" Role="StavkaRacuna" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Proizvod">
+              <PropertyRef Name="ID_proizvoda" />
+            </Principal>
+            <Dependent Role="StavkaRacuna">
+              <PropertyRef Name="ID_proizvoda" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StavkeRacuna_Racun">
+          <End Type="PekaraDBModel.Racun" Role="Racun" Multiplicity="1" />
+          <End Type="PekaraDBModel.StavkaRacuna" Role="StavkaRacuna" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Racun">
+              <PropertyRef Name="ID_racuna" />
+            </Principal>
+            <Dependent Role="StavkaRacuna">
+              <PropertyRef Name="ID_racuna" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="PekaraDBModelStoreContainer" CdmEntityContainer="PekaraEntities">
+          <EntitySetMapping Name="Kupacs">
+            <EntityTypeMapping TypeName="PekaraDBModel.Kupac">
+              <MappingFragment StoreEntitySet="Kupac">
+                <ScalarProperty Name="ID_kupca" ColumnName="ID_kupca" />
+                <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+                <ScalarProperty Name="Kontakt" ColumnName="Kontakt" />
+                <ScalarProperty Name="OIB" ColumnName="OIB" />
+                <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="NarudzbaProdajes">
+            <EntityTypeMapping TypeName="PekaraDBModel.NarudzbaProdaje">
+              <MappingFragment StoreEntitySet="NarudzbaProdaje">
+                <ScalarProperty Name="ID_narudzbeProdaje" ColumnName="ID_narudzbeProdaje" />
+                <ScalarProperty Name="ID_zaposlenika" ColumnName="ID_zaposlenika" />
+                <ScalarProperty Name="ID_kupca" ColumnName="ID_kupca" />
+                <ScalarProperty Name="Datum" ColumnName="Datum" />
+                <ScalarProperty Name="Iznos" ColumnName="Iznos" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Proizvods">
+            <EntityTypeMapping TypeName="PekaraDBModel.Proizvod">
+              <MappingFragment StoreEntitySet="Proizvod">
+                <ScalarProperty Name="ID_proizvoda" ColumnName="ID_proizvoda" />
+                <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+                <ScalarProperty Name="Opis" ColumnName="Opis" />
+                <ScalarProperty Name="Cijena" ColumnName="Cijena" />
+                <ScalarProperty Name="Zaliha" ColumnName="Zaliha" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Stavka_narudzbeProdaje">
+            <EntityTypeMapping TypeName="PekaraDBModel.Stavka_narudzbeProdaje">
+              <MappingFragment StoreEntitySet="Stavka_narudzbeProdaje">
+                <ScalarProperty Name="ID_narudzbeProdaje" ColumnName="ID_narudzbeProdaje" />
+                <ScalarProperty Name="ID_proizvoda" ColumnName="ID_proizvoda" />
+                <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ulogas">
+            <EntityTypeMapping TypeName="PekaraDBModel.Uloga">
+              <MappingFragment StoreEntitySet="Uloga">
+                <ScalarProperty Name="ID_uloge" ColumnName="ID_uloge" />
+                <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+                <ScalarProperty Name="Opis" ColumnName="Opis" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Zaposleniks">
+            <EntityTypeMapping TypeName="PekaraDBModel.Zaposlenik">
+              <MappingFragment StoreEntitySet="Zaposlenik">
+                <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+                <ScalarProperty Name="ID_zaposlenika" ColumnName="ID_zaposlenika" />
+                <ScalarProperty Name="Ime" ColumnName="Ime" />
+                <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+                <ScalarProperty Name="Kontakt" ColumnName="Kontakt" />
+                <ScalarProperty Name="ID_uloge" ColumnName="ID_uloge" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Racuns">
+            <EntityTypeMapping TypeName="PekaraDBModel.Racun">
+              <MappingFragment StoreEntitySet="Racun">
+                <ScalarProperty Name="Datum" ColumnName="Datum" />
+                <ScalarProperty Name="KonacniIznos" ColumnName="KonacniIznos" />
+                <ScalarProperty Name="PocetniIznos" ColumnName="PocetniIznos" />
+                <ScalarProperty Name="Popust" ColumnName="Popust" />
+                <ScalarProperty Name="NacinPlacanja" ColumnName="NacinPlacanja" />
+                <ScalarProperty Name="ID_zaposlenika" ColumnName="ID_zaposlenika" />
+                <ScalarProperty Name="ID_racuna" ColumnName="ID_racuna" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="PekaraDBModel.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="definition" ColumnName="definition" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StavkaRacunas">
+            <EntityTypeMapping TypeName="PekaraDBModel.StavkaRacuna">
+              <MappingFragment StoreEntitySet="StavkaRacuna">
+                <ScalarProperty Name="Kolicina" ColumnName="Kolicina" />
+                <ScalarProperty Name="ID_proizvoda" ColumnName="ID_proizvoda" />
+                <ScalarProperty Name="ID_racuna" ColumnName="ID_racuna" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

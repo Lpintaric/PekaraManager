@@ -1,0 +1,29 @@
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.AssemblyInfoInputs.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.AssemblyInfo.cs
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.deps.json
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.runtimeconfig.json
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.runtimeconfig.dev.json
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\PekaraBussines.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\PekaraData.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\EntityFramework.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\PekaraBussines.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\PekaraData.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\PekaraData.dll.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\Poslovna aplikacija.exe.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\bin\Debug\netcoreapp2.1\EntityFramework.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csproj.CopyComplete
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.pdb

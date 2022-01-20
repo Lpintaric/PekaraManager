@@ -1,0 +1,28 @@
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Testiranje2.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Testiranje2.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\PekaraBussines.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\PekaraData.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Poslovna aplikacija.exe
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\EntityFramework.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\PekaraBussines.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\PekaraData.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\PekaraData.dll.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Poslovna aplikacija.pdb
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Poslovna aplikacija.exe.config
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\bin\Debug\EntityFramework.xml
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\obj\Debug\Testiranje2.csprojAssemblyReference.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\obj\Debug\Testiranje2.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\obj\Debug\Testiranje2.csproj.CopyComplete
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\obj\Debug\Testiranje2.dll
+C:\Users\lukap\source\r19055 - Copy (5)\Poslovna aplikacija\Testiranje2\obj\Debug\Testiranje2.pdb
